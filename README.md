@@ -1,9 +1,15 @@
 # FontResizer
 
+![Preview](https://github.com/BalioFVFX/TextResizer/blob/main/preview/preview.gif?raw=true)
+
 ### What is this about?
 This is a little utility script that allows me to automatically adjust the font size of apps that I frequently use.
+
 ### Why don't you use the scaling that macOS provides?
 Some monitors (including mine) do not support HiDPI resolutions.
+
+![Resolutions](https://github.com/BalioFVFX/TextResizer/blob/main/preview/resolutions.png?raw=true)
+
 ### Can I use it too?
 Yes, but at your own risk. I have created this script for my specific use case and it's intended to work for my setup. You will most likely have to edit the code. Also, keep in mind that the script overwrites some of the existing configs of the apps.
 
