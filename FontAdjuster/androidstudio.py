@@ -1,6 +1,7 @@
 import os.path
 import xml.etree.ElementTree as ET
 
+process = "Android Studio.app"
 
 def adjustFont(size):
     googlePath = os.path.expanduser("~") + "/Library/Application Support/Google/"

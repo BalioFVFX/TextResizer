@@ -1,5 +1,7 @@
 import os.path
 
+process = "Spotify.app"
+
 def adjustFont(size):
     spotifyDir = os.path.expanduser("~") + "/Library/Application Support/Spotify"
 

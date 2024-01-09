@@ -7,6 +7,8 @@ import os.path
 # 1.2239010857415449 -> 125%
 # 1.5778829311823854 -> 133%
 
+process = "Brave Browser.app"
+
 def adjustFont(size):
     braveDir = os.path.expanduser("~") + "/Library/Application Support/BraveSoftware/Brave-Browser"
 

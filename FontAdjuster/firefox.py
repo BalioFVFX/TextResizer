@@ -1,6 +1,8 @@
 import os.path
 import sqlite3
 
+process = "Firefox.app"
+
 def adjustFont(percent):
 
     profilesDir = os.path.expanduser("~") + "/Library/Application Support/Firefox/Profiles/"

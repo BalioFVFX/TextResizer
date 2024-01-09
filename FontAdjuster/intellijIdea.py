@@ -1,6 +1,7 @@
 import os.path
 import xml.etree.ElementTree as ET
 
+process = "IntelliJ IDEA.app"
 
 def adjustFont(size):
     jetBrainsPath = os.path.expanduser("~") + "/Library/Application Support/JetBrains/"
